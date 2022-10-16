@@ -9,6 +9,5 @@ scipy
 scikit-learn
 matplotlib
 pandas
-keras
-tensorflow
+
 
